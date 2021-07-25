@@ -13,6 +13,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [What I learnt](#learn)
 - [Author](#author)
 
 ## Overview
@@ -30,9 +31,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/stats-preview-card-mobilefirst-solution-using-css-flexbox-IQZU-Naop)
-- Live Site URL: [Add live site URL here](https://mml-stats-preview-card-component.netlify.app/)
-
+- Solution URL: [Frontend Masters Solution](https://www.frontendmentor.io/solutions/profile-card-component-4uUxxsqqn)
+- Live Site URL: [Live](https://mml-profile-card-component.netlify.app/)
+- Repository: [GitHub](https://github.com/Michelle-Lefebvre/profile-card-component)
 ## My process
 
 ### Built with
@@ -42,40 +43,20 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 
+## Lesson Learned
+To get github pages to load images always use ./images/filename...
+
 ## Author
 
 - Website - (https://portfolio-mml.netlify.app/)
 - Frontend Mentor - [@Michelle-Lefebvre](https://www.frontendmentor.io/profile/Michelle-Lefebvre)
 - Twitter - [@MMLdesigns](https://twitter.com/MMLdesigns)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Michelle-Lefebvre/profile-card-component/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
